@@ -11,7 +11,7 @@ Requirements: <br>
 ### stpe 1 ：`installing mmdetcetion`
 Install the mmdetcetion toolbox with GPU by following [get_started.md](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md)
 ### step 2 : `download mmdet file and config file`
-Replace the `config` file and `mmdet` file  with the our [config] and [mmdet] 
+Replace the `config` file and `mmdet` file  with the our [config](https://github.com/LX-SZY/dynamicanchor/tree/main/configs) and [mmdet](https://github.com/LX-SZY/dynamicanchor/tree/main/mmdet) 
 ### step 3 : `prepare the dataset`
 download [COCO dataset](https://cocodataset.org/#download) <br>
 Store in the form of the following directory：<br>

@@ -3,7 +3,7 @@ we achieve RetinaNet with dynamic anchor based on mmdetection
 ## Introduction
 Code details of dynamic anchor
 ## Installation
-This DA-RetinaNet implementation is based on [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos) and [mmdetection](https://github.com/open-mmlab/mmdetection) and the installation is the same as mmdetection. Please check [INSTALL.md](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) for installation instructions.
+This DA-RetinaNet implementation is based on [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos) and [mmdetection](https://github.com/open-mmlab/mmdetection) and the installation is the same as mmdetection. Please check [INSTALL.md](https://github.com/LX-SZY/dynamicanchor/blob/main/INSTALL.md) for installation instructions.
 ## Inference
 Once the installation is done, you can download DA-RetinaNet_r50.pth from Google or Baidu. The following command line will inference on coco minival split and please replace `root` with your `root directory` at first (for example: my root directory is "/home/yht/Demo1/mmdetection/") :
 ```
